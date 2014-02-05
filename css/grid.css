@@ -5,18 +5,18 @@
  Gutter : 20px 
 
  */
-.grid_1 { width: 65px; border:  }
-.grid_2 { width: 150px; border:  }
-.grid_3 { width: 235px; border:  }
-.grid_4 { width: 320px; border:  }
-.grid_5 { width: 405px; border:  }
-.grid_6 { width: 490px; border:  }
-.grid_7 { width: 575px; border:  }
-.grid_8 { width: 660px; border:  }
-.grid_9 { width: 745px; border:  }
-.grid_10 { width: 830px; border:  } 
-.grid_11 { width: 915px; border:  }
-.grid_12 { width: 1000px; border:  }
+.grid_1 { width: 65px; }
+.grid_2 { width: 150px; }
+.grid_3 { width: 235px; }
+.grid_4 { width: 320px; }
+.grid_5 { width: 405px; }
+.grid_6 { width: 490px;  }
+.grid_7 { width: 575px; }
+.grid_8 { width: 660px; }
+.grid_9 { width: 745px; }
+.grid_10 { width: 830px;} 
+.grid_11 { width: 915px; }
+.grid_12 { width: 1000px; }
 
 .grid_1,
 .grid_2,
