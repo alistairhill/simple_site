@@ -2,42 +2,28 @@ body {
   font-family: 'Nunito', sans-serif;
   color: black;
   font-size: 8;
-  background: #FAF3BC url('../img/bricks.jpg') repeat;
+  background: url('../img/bricks.jpg') repeat;
 }
 
-
 a {
-  color: #4FB69F;
+  color: black;
   text-decoration: none;
 }
 
-h1 {
-  font-size: 1.750em;
-  letter-spacing: -1.5px;
-}
-
 h2 {
+  text-shadow: 3px 3px 3px black;
   font-size: 1.500em;
-  color: #B4C34F;
+  color: white;
 }
 
-.btn {
-  color: #FAF3BC;
-  background: #4FB69F url('img/texture.png') no-repeat right top;
-  padding: 15px 30px;
-  margin: 40px 0px;
-  border-radius: 25px;
-  text-transform: uppercase;
-}
-
-.btn:hover {
-  background-color: #4CC4A7;
+img {
+  border: 1px solid black;
 }
 
 ul.nav {
-  margin: 120px 0 0 0;
+  margin: 25px 0 25px 0;
   list-style: none;
-  float: right;
+  float: left;
 }
 
 ul.nav li {
@@ -46,7 +32,8 @@ ul.nav li {
 }
 
 ul.nav li a {
-  color: #FAF3BC;
+  color: black;
+  text-shadow:red 0px 2px 0, #000 0 -2px 0;
 }
 
 #intro {
@@ -54,12 +41,12 @@ ul.nav li a {
 }
 
 #new-cupcakes img {
-  border: 8px solid #FAF3BC;
+  border: 8px solid blue;
   margin: 0 0 20px 0;
 }
 
-#featured-cupcake img {
-  border: 8px solid #FAF3BC;
+#levelab img {
+  border: 1px solid #black;
 }
 
 #copyright {
